@@ -1,10 +1,14 @@
 # .github
-Smart contracts for Nifty Row Protocol
-Consists of:
+Smart contracts for Nifty Row Protocol Consists of:
+
 •	Yasuke: responsible for mint, auctions, bids, buy-now etc.
+
 •	Storage: Used for storing about auctions, fees and administrative functions
+
 •	AssetManagerV2:  ArtExchange/Fractional investment functions based on ERC20 for NFTs
+
 •	PhysicalArt: Planned outright purchase function of physical art with credit card payment support
+
 
 
 Nifty Row Smart Contracts deployed instances across Mainnet and Testnet:
