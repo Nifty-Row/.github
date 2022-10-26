@@ -55,15 +55,23 @@ Steps for starting an English Auction:
 8.	Confirm transaction via Metamask/Web3.0 wallet
 
 Nifty Row will also feature  the Nifty Row Token  which will be managed by a Decentralized Autonomous Organization (DAO) that will operate through on-chain governance. The Nifty Row DAO token will function via the marketplace to provide ongoing support for the creative community by means of  : 
+
 Early access to presales
+
 Authorized Collections
+
 Voting on proposals
-Guaranteed royalties 
+
+Guaranteed royalties
+
 NFT Lots
+
 Discounted Fees
+
 Exclusive Access to Mint 
+
 Funding of Creative Initiatives and Projects
-Nifty Row will enrich unsung artists with blockchain software tools that will enable NFT rewards and allow artist to sell their NFTs in the Metaverse.
+
 
 License
 
